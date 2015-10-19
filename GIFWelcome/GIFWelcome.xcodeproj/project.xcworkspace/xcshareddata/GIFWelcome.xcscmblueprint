@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "306B9D5C442A5F0AD9B71A0509D1E1A56EBF9FE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "306B9D5C442A5F0AD9B71A0509D1E1A56EBF9FE9" : 0,
+    "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93FFFE73-1DF9-408F-B4D8-6A8369FF5CD4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "306B9D5C442A5F0AD9B71A0509D1E1A56EBF9FE9" : "gifwelcome\/",
+    "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GIFWelcome",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GIFWelcome\/GIFWelcome.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/suesu123456\/-swift-alimonyCal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/suesu123456\/GifWelcome.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "306B9D5C442A5F0AD9B71A0509D1E1A56EBF9FE9"
+    }
+  ]
+}
